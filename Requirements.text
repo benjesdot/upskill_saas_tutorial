@@ -4,3 +4,10 @@ MEMBERSHIPS
 * USER SHOULD SEE THE LINK FOR THE PRO PLAN ON HOME PAGE
 * BASIC PLAN LINK SHOULD POINT TO REGULAR DEVISE SIGN UP FORM 
 * PRO PLAN LINK SHOULD POINT TO A CUSTOM SIGN UP FORM 
+
+User Profiles
+* Each user should have one profile
+* User should see link to new profile form upon signing up
+* User should be able to create and view their user profile
+* User profile should have a profile picture
+* User should be able to view all user profiles
