@@ -26,7 +26,7 @@ class ProfilesController < ApplicationController
     @profile = @user.profile
   end
   
-  # PUTCH to /users/:user_id/profile 
+  # PATCH to /users/:user_id/profile 
   def update
     # Retrieve the user from the database
     @user = User.find(params[:user_id] )
